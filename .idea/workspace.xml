@@ -5,20 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef12b3de-7045-4284-ba15-9563897c516d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Pages/HomepageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/data/sample.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/InputFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LaunchDifferentBrowsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uploadFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/Utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/Utilities/ConfigGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/Utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/Utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/Utilities/RandomText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/Utilities/WaitsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/pages/BasePage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/testRunnerPages/ImplementSelenide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/testRunnerPages/SeleniumGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/testRunnerPages/Task3_Implement_Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/module8/testRunnerPages/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Pages/HomepageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/data/sample.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/InputFields.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LaunchDifferentBrowsers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/uploadFileTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +44,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2h9k99ogwDFGNE5etgEpanrfYct" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,21 +58,87 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Kultigin_Uludag/AppData/Local/Temp/3db292df-304f-451b-a5ae-b4b262abb085_Ex_Files_Adv_Selenium_GUI.zip.085/Ex_Files_Adv_Selenium_GUI/selenideFramework/src/test/resources/testng.xml.executor": "Run",
     "TestNG.HomeTest.ClickLoginWithEpam.executor": "Run",
     "TestNG.HomeTest.TestPageUrlAndTitle.executor": "Run",
     "TestNG.HomeTest.multipleElement.executor": "Run",
+    "TestNG.ImplementSeleneid.AddDashboard.executor": "Run",
+    "TestNG.ImplementSeleneid.JsAndActionTest.executor": "Run",
+    "TestNG.ImplementSeleneid.executor": "Run",
+    "TestNG.ImplementSelenide.AddDashboard.executor": "Run",
+    "TestNG.ImplementSelenide.JsAndActionTest.executor": "Run",
+    "TestNG.ImplementSelenide.executor": "Run",
     "TestNG.LaunchDifferentBrowsers.launchBrowsertest.executor": "Run",
-    "git-widget-placeholder": "master",
+    "TestNG.SeleniumGrid.executor": "Run",
+    "TestNG.Task3_Implement_Tests.AddNewDashboardTest.executor": "Run",
+    "TestNG.Task3_Implement_Tests.EditWidgetTest.executor": "Run",
+    "TestNG.Task3_Implement_Tests.RemoveDashboardTest.executor": "Run",
+    "TestNG.Task3_Implement_Tests.executor": "Run",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "git-widget-placeholder": "Task8",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Kultigin_Uludag/AppData/Local/Temp/3db292df-304f-451b-a5ae-b4b262abb085_Ex_Files_Adv_Selenium_GUI.zip.085/Ex_Files_Adv_Selenium_GUI/selenideFramework/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Kultigin_Uludag/AppData/Local/Temp/3db292df-304f-451b-a5ae-b4b262abb085_Ex_Files_Adv_Selenium_GUI.zip.085/Ex_Files_Adv_Selenium_GUI/selenideFramework/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.LaunchDifferentBrowsers.launchBrowsertest">
-    <configuration name="HomeTest.ClickLoginWithEpam" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SeleniumGrid">
+    <configuration name="C:/Users/Kultigin_Uludag/AppData/Local/Temp/3db292df-304f-451b-a5ae-b4b262abb085_Ex_Files_Adv_Selenium_GUI.zip.085/Ex_Files_Adv_Selenium_GUI/selenideFramework/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenideFramework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HomeTest" />
-      <option name="METHOD_NAME" value="ClickLoginWithEpam" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumGrid" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenideFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunnerPages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunnerPages" />
+      <option name="MAIN_CLASS_NAME" value="testRunnerPages.SeleniumGrid" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3_Implement_Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenideFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunnerPages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunnerPages" />
+      <option name="MAIN_CLASS_NAME" value="testRunnerPages.Task3_Implement_Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3_Implement_Tests.AddNewDashboardTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenideFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunnerPages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunnerPages" />
+      <option name="MAIN_CLASS_NAME" value="testRunnerPages.Task3_Implement_Tests" />
+      <option name="METHOD_NAME" value="AddNewDashboardTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -71,35 +146,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeTest.TestPageUrlAndTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Task3_Implement_Tests.RemoveDashboardTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenideFramework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HomeTest" />
-      <option name="METHOD_NAME" value="TestPageUrlAndTitle" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeTest.multipleElement" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenideFramework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HomeTest" />
-      <option name="METHOD_NAME" value="multipleElement" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LaunchDifferentBrowsers.launchBrowsertest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenideFramework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LaunchDifferentBrowsers" />
-      <option name="METHOD_NAME" value="launchBrowsertest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunnerPages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunnerPages" />
+      <option name="MAIN_CLASS_NAME" value="testRunnerPages.Task3_Implement_Tests" />
+      <option name="METHOD_NAME" value="RemoveDashboardTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -109,10 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LaunchDifferentBrowsers.launchBrowsertest" />
-        <item itemvalue="TestNG.HomeTest.multipleElement" />
-        <item itemvalue="TestNG.HomeTest.ClickLoginWithEpam" />
-        <item itemvalue="TestNG.HomeTest.TestPageUrlAndTitle" />
+        <item itemvalue="TestNG.SeleniumGrid" />
+        <item itemvalue="TestNG.C:/Users/Kultigin_Uludag/AppData/Local/Temp/3db292df-304f-451b-a5ae-b4b262abb085_Ex_Files_Adv_Selenium_GUI.zip.085/Ex_Files_Adv_Selenium_GUI/selenideFramework/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.Task3_Implement_Tests" />
+        <item itemvalue="TestNG.Task3_Implement_Tests.RemoveDashboardTest" />
+        <item itemvalue="TestNG.Task3_Implement_Tests.AddNewDashboardTest" />
       </list>
     </recent_temporary>
   </component>

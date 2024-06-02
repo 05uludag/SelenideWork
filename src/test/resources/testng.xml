@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <listeners>
+        <listener class-name="testRunnerPages.TestListener"/>
+    </listeners>
+    <test name="Test">
+        <classes>
+            <class name="testRunnerPages.ImplementSelenide"/>
+            <class name="testRunnerPages.Task3_Implement_Tests"/>
+        </classes>
+    </test>
+</suite>
